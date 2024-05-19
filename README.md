@@ -1,4 +1,4 @@
-# Is It Chrome?
+# Is it Chrome?
 
 This page uses Cloudflare's proxying functionality to determine if the user is using Chrome. `is-it-chrome.css` will actually serve a page that depends on the user agent string.
 
