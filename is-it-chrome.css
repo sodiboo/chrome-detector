@@ -1,5 +1,5 @@
 /* Something went wrong. Cloudflare should always rewrite this URL */
 
-.yes-chrome, .no-chrome {
+.yes-chrome:not(.no-chrome), .no-chrome:not(.yes-chrome) {
     display: none;
 }
