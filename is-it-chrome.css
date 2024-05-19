@@ -1,0 +1,5 @@
+/* This shouldn't ever be loaded by the browser, due to Cloudflare rules. */
+
+.yes-chrome, .no-chrome {
+    display: none;
+}
